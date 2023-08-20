@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.620e5168.css",
+    "main.js": "/static/js/main.396f7544.js",
+    "static/media/flutter_discussme.png": "/static/media/flutter_discussme.7e1fd6878e50c4f8f930.png",
+    "static/media/flutter_hotel.png": "/static/media/flutter_hotel.982b452ca968e1ab1c11.png",
+    "static/media/meee.png": "/static/media/meee.d0fad7a0c4040f3e85b9.png",
+    "static/media/meeee.jpg": "/static/media/meeee.220cb4eb0b69de92bb27.jpg",
+    "static/media/C_dentist.png": "/static/media/C_dentist.c70ed0879f60b68569a9.png",
+    "static/media/react_PF.png": "/static/media/react_PF.ecfca538e7f795374549.png",
+    "static/media/react_flags.png": "/static/media/react_flags.814dfc37d342ecee79a4.png",
+    "static/media/flutter_ACK.png": "/static/media/flutter_ACK.f96a43afe415e256c48f.png",
+    "static/media/cv.pdf": "/static/media/cv.62640bba8b83dc8ebeca.pdf",
+    "static/media/react_ecom.png": "/static/media/react_ecom.1ec01d49ec816a0c29df.png",
+    "index.html": "/index.html",
+    "main.620e5168.css.map": "/static/css/main.620e5168.css.map",
+    "main.396f7544.js.map": "/static/js/main.396f7544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.620e5168.css",
+    "static/js/main.396f7544.js"
+  ]
+}
